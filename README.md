@@ -18,7 +18,8 @@ Pre-trained Model: Uses a trained logistic regression classifier
 
 Clone this repository:
 
-git clone <your-repository-url>
+git clone https://github.com/Rit-12345105/Smile-Stalker---Image-Smile-Detection-App.git
+
 cd smile-stalker
 
 Install required dependencies:
